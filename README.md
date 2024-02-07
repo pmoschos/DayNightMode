@@ -52,7 +52,7 @@ Be sure to ⭐ this repository to stay updated with new examples and enhancement
 ## Contact 📧
 Panagiotis Moschos - pan.moschos86@gmail.com
 
-🔗 *Note: This is a Python script and requires a Python interpreter to run.*
+🔗 *Note: This is a Android Application and requires a Android Studio to build and run.*
 
 ---
 <h1 align=center>Happy Coding 👨‍💻 </h1>
