@@ -32,8 +32,7 @@ The mode state (day/night) is saved in the app's shared preferences, ensuring th
 
 Here are some screenshots of the app in action:
 
-![image](https://github.com/pmoschos/pmoschos/assets/133533759/95d1a638-95a7-4d93-8d30-aa1ec978ce8b)
-
+![image](https://github.com/pmoschos/DayNightMode/assets/133533759/4c5c73c3-8f0d-43b0-a274-1efc2824cf0f)
 
 ## Features 🌟
 
