@@ -13,7 +13,7 @@ To use this app in your Android project, follow the steps below:
 
 ### Installation
 
-1. Clone this repository to your local machine using `git clone https://your-repository-here.git`.
+1. Clone this repository to your local machine using `git clone https://github.com/pmoschos/DayNightMode`.
 2. Open the project in Android Studio.
 3. Sync the project with Gradle files.
 4. Run the app on an Android device or emulator.
@@ -32,7 +32,7 @@ The mode state (day/night) is saved in the app's shared preferences, ensuring th
 
 Here are some screenshots of the app in action:
 
-![image](https://github.com/pmoschos/DayNightMode/assets/133533759/4c5c73c3-8f0d-43b0-a274-1efc2824cf0f)
+![image](https://github.com/pmoschos/DayNightMode/assets/133533759/6b14af08-6f72-4ab7-9f2d-f0ea571ab0d0)
 
 ## Features 🌟
 
